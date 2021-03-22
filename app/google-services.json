@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94936237704",
+    "project_id": "litelo-363a5",
+    "storage_bucket": "litelo-363a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94936237704:android:7c77490d1d2b3a9392c13d",
+        "android_client_info": {
+          "package_name": "com.example.lifelite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94936237704-sprt01p6fus00op3gh3bc2quen9gatua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD_ENFj9pEuarcaVQAYYuEvpNMXyo3HhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94936237704-sprt01p6fus00op3gh3bc2quen9gatua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
